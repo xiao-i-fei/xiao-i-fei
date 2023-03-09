@@ -66,4 +66,4 @@
 ![Git](https://img.shields.io/badge/-Git-FCC624?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-pink?style=flat-square&logo=github)
 
-<div align="center"><img src="./personal-homepage-banner.jpg" /></div>
+<div align="center"><img src="./assets/personal-homepage-banner.jpg" /></div>

@@ -8,6 +8,21 @@
 
 ~~同学们不要学我，老是熬夜会长痘~~
 
+<!-- 打字特效 -->
+<h1 align="center">
+    <a href="https://github.com/xiao-i-fei/">
+        <img
+            src="https://readme-typing-svg.herokuapp.com/?lines=%E4%BB%A5%E6%AC%A2%E5%96%9C%E4%B9%8B%E5%BF%83+%E6%85%A2%E5%BA%A6%E6%97%A5%E5%B8%B8;XiaoFei同学祝您今天愉快!&center=true&size=27">
+    </a>
+</h1>
+
+<!-- 贪吃蛇代码贡献图 -->
+<div align="center">
+    <img src="./assets/github-contribution-grid-snake.svg" />
+</div>
+<br/>
+<br/>
+
 💪 正在学习:
 
 &emsp;&emsp;
@@ -56,19 +71,6 @@ Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-squ
     <!-- Most used languages（GitHub 使用语言统计） -->
     <img
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiao-i-fei&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
-</div>
-
-<!-- 打字特效 -->
-<h1 align="center">
-    <a href="https://github.com/xiao-i-fei/">
-        <img
-            src="https://readme-typing-svg.herokuapp.com/?lines=%E4%BB%A5%E6%AC%A2%E5%96%9C%E4%B9%8B%E5%BF%83+%E6%85%A2%E5%BA%A6%E6%97%A5%E5%B8%B8;XiaoFei同学祝您今天愉快!&center=true&size=27">
-    </a>
-</h1>
-
-<!-- 贪吃蛇代码贡献图 -->
-<div align="center">
-    <img src="./assets/github-contribution-grid-snake.svg" />
 </div>
 
 <!-- Metrics（GitHub 信息统计） -->

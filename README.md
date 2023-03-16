@@ -81,11 +81,6 @@ Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-squ
     <img src="https://github-profile-trophy.vercel.app/?username=xiao-i-fei" />
 </div>
 
-<!-- GitHub Readme Activity Graph （GitHub 活动统计图） -->
-<div align="center">
-    <img src="https://activity-graph.herokuapp.com/graph?username=xiao-i-fei&theme=xcode" />
-</div>
-
 <div align="center">
     <!-- GitHub streak（GitHub 连续打卡） -->
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=xiao-i-fei" />

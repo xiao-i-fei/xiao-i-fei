@@ -81,14 +81,6 @@ Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-squ
     <img src="https://github-profile-trophy.vercel.app/?username=xiao-i-fei" />
 </div>
 
-<!-- Shields（GitHub 徽章） -->
-<div align="center">
-    <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-    <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" />
-    <img src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript" />
-    <img src="https://visitor-badge.glitch.me/badge?page_id=xiao-i-fei" />
-</div>
-
 <!-- GitHub Readme Activity Graph （GitHub 活动统计图） -->
 <div align="center">
     <img src="https://activity-graph.herokuapp.com/graph?username=xiao-i-fei&theme=xcode" />
